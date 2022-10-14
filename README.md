@@ -1,1 +1,1 @@
-Just test issue tracker!:
+Just test issue tracker!: closes #1
